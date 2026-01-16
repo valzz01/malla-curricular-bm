@@ -1,5 +1,1 @@
-malla-curricular-bm/
-│
-├── index.html
-├── style.css
-└── script.js
+malla-curricular-bm
